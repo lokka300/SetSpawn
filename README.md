@@ -8,7 +8,7 @@
 
 # Installation 
 1. Drop into plugins folder
-2. Done
+2. /reload confirm / resart server (optional)
 
 ## Download
 1. Go to the releases on the right
